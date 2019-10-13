@@ -10,6 +10,7 @@ So, please feel free to dig this up and work on it. I am planning to give suppor
 If you find any issues with the app or suggestions to improve, please report to me or give a pull request.
 
 
-###TODO:
-1. Better Documentation
-2. Make the eBook reader part as a standalone library
+### TODO:
+
+- [ ] Better Documentation
+- [ ] Make the eBook reader part as a standalone library
