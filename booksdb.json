@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சேதுபதி மன்னர் வரலாறு",
+      "bookid": "8b6c8ac6-889b-4828-bfdc-646514dac712",
+      "author": "எஸ். எம். கமால்",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/01/cover.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%9a%e0%af%87%e0%ae%a4%e0%af%81%e0%ae%aa%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%b0%e0%af%8d-%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be%e0%ae%b1%e0%af%81-epub/",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "அறிந்ததும் – அறியாததும் (தாவரங்கள்)",
       "bookid": "5710ef2a-3334-4b7e-b133-4ff9dfd08efd",
       "author": "ஏற்காடு இளங்கோ",
