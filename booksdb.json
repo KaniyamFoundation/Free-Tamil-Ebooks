@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "திராவிட வாசிப்பு - 1 (அண்ணா சிறப்பிதழ்)",
+      "bookid": "aa87d770-f000-4540-a54a-c7f3191f5257",
+      "author": "திராவிட வாசிப்பு  குழு",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/02/cover-3.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%9f-%e0%ae%b5%e0%ae%be%e0%ae%9a%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81-1-%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%be-%e0%ae%9a/",
+      "category": "அரசியல்"
+    },
+    {
       "title": "திறந்த மூலத்திற்கு எவ்வாறு பங்களிப்பது? - கணினி அறிவியல் - கிட்ஹப் குழு",
       "bookid": "d0ca879a-41fe-4d08-8d07-9047e52b5bb0",
       "author": "கிட்ஹப் குழு",
