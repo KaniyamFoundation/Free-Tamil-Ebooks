@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "உறவாடும் எழுத்துக்கள் - பகுதி – 1",
+      "bookid": "903e73d0-7de7-4f0d-aa90-4a22d559054f",
+      "author": "நவீன் ராஜ் தங்கவேல்",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/02/cover-7.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%89%e0%ae%b1%e0%ae%b5%e0%ae%be%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%8e%e0%ae%b4%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%aa/",
+      "category": "கவிதைகள்"
+    },
+    {
       "title": "அன்புள்ள அப்பாவுக்கு",
       "bookid": "0c8485ac-06be-44ab-a032-089cd778f356",
       "author": "அன்பரசு சண்முகம்",
