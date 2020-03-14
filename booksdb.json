@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஜுபைதா அல்லது பழிக்குப் பழி",
+      "bookid": "70d1d0bc-c5df-4816-8443-bcad709a778f",
+      "author": "அல்ஹாஜ் பா. தாவூத்ஷா B.A.",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/03/Zubaida.png",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%9c%e0%af%81%e0%ae%aa%e0%af%88%e0%ae%a4%e0%ae%be-%e0%ae%85%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%a4%e0%af%81-%e0%ae%aa%e0%ae%b4%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%aa%e0%af%8d/",
+      "category": "நாவல்"
+    },
+    {
       "title": "உறவாடும் எழுத்துக்கள் - பகுதி – 1",
       "bookid": "903e73d0-7de7-4f0d-aa90-4a22d559054f",
       "author": "நவீன் ராஜ் தங்கவேல்",
