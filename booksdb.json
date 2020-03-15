@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் சாப்ட்வேர் டெஸ்டிங்",
+      "bookid": "ee6f00b4-6a8f-4bc6-9946-f6503c8094cd",
+      "author": "கி.முத்துராமலிங்கம்",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/03/Softwaretamil.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%ae%be%e0%ae%aa%e0%af%8d%e0%ae%9f%e0%af%8d%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d-21/",
+      "category": "தொழில்நுட்பம்"
+    },
+    {
       "title": "ஜுபைதா அல்லது பழிக்குப் பழி",
       "bookid": "70d1d0bc-c5df-4816-8443-bcad709a778f",
       "author": "அல்ஹாஜ் பா. தாவூத்ஷா B.A.",
