@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் Deep Learning",
+      "bookid": "b90023f6-f9f2-4980-91c8-09e526672562",
+      "author": "து. நித்யா",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/03/cover-1.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-deep-learning-epub/",
+      "category": "தொழில்நுட்பம்"
+    },
+    {
       "title": "சந்திப்போமா - கடிதங்கள்",
       "bookid": "15ce0df9-dcf7-4a78-a88a-3e2fc15e42ae",
       "author": "அன்பரசு சண்முகம் - சபாபதி",
