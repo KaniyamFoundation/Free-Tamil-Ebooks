@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சுழல்",
+      "bookid": "5c49c65d-1665-4953-aaf5-7706967085ce",
+      "author": "களந்தை பீர்முகம்மது",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/03/Suzhal.png",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%9a%e0%af%81%e0%ae%b4%e0%ae%b2%e0%af%8d-epub/",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "எளிய தமிழில் Deep Learning",
       "bookid": "b90023f6-f9f2-4980-91c8-09e526672562",
       "author": "து. நித்யா",
