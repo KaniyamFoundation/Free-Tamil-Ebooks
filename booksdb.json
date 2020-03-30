@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "தமிழக இஸ்லாமிய ஃபக்கீர்கள்",
+      "bookid": "734cd7e8-47b3-47f7-8414-de4694a9c592",
+      "author": "தே. ஆக்னஸ் ஷர்மீலி",
+      "image": "http://freetamilebooks.com/wp-content/uploads/2020/03/Tamilislmic.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%95-%e0%ae%87%e0%ae%b8%e0%af%8d%e0%ae%b2%e0%ae%be%e0%ae%ae%e0%ae%bf%e0%ae%af-%e0%ae%83%e0%ae%aa%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%80%e0%ae%b0%e0%af%8d%e0%ae%95/",
+      "category": "முனைவர் பட்ட ஆய்வேடு"
+    },
+    {
       "title": "பணியாரம்",
       "bookid": "2fd649a2-fd19-4036-b43d-d03c120d13eb",
       "author": "சிபி",
