@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "புத்துரைகள்",
+      "bookid": "515ce985-eb4c-4b15-a97f-bb93d2cd3262",
+      "author": "பணியா. பிரசன்னா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2020/04/puthuraigal_cover-scaled.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%b0%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "தமிழக இஸ்லாமிய ஃபக்கீர்கள்",
       "bookid": "734cd7e8-47b3-47f7-8414-de4694a9c592",
       "author": "தே. ஆக்னஸ் ஷர்மீலி",
