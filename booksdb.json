@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "டெக் ஹைக்கூ",
+      "bookid": "9e075576-7f9e-4db9-b36c-ff188584ccb6",
+      "author": "விக்னேஷ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2020/04/cover-9.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%9f%e0%af%86%e0%ae%95%e0%af%8d-%e0%ae%b9%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%82-epub/",
+      "category": "கவிதைகள்"
+    },
+    {
       "title": "இன்றைய கண்ணாடியும் நாளைய முகங்களும்",
       "bookid": "fc86e397-ceb8-430d-9bea-ed504a1ae73e",
       "author": "களந்தை பீர்முகமது",
