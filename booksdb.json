@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "மனிதர்களும் அமைப்புகளும்",
+      "bookid": "7b9ec2c8-d099-481d-a8ec-9ad8a238e626",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2020/09/cover.jpg",
+      "epub": "http://freetamilebooks.com/download/%e0%ae%ae%e0%ae%a9%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%85%e0%ae%ae%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%ae/",
+      "category": "தத்துவம்"
+    },
+    {
       "title": "மண்ணில்  இருந்து விண்வெளிக்கு",
       "bookid": "84fd9359-eabf-4155-837b-ca9e1b785227",
       "author": "பொன் குலேந்திரன்",
