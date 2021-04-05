@@ -1,6 +1,46 @@
 {
     "books": [
         {
+            "author": "ஏற்காடு இளங்கோ",
+            "bookid": "b8cd39bb-1faa-4d7a-9e59-bfad512c6ca9",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%be%e0%ae%b5%e0%ae%b0%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/03/cover-3-212x300.jpg",
+            "title": "தாவரவியல் பெயர்களின் தமிழ் பெயர்கள்"
+        },
+        {
+            "author": "என். வி. கலைமணி",
+            "bookid": "552bd7ac-fe0f-4971-affd-e30ef789d055",
+            "category": "வாழ்க்கை வரலாறுஇ",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%af%80%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%af%8b%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%ae%e0%af%8d%e0%ae%ae%e0%af%88-%e0%ae%ae%e0%af%87%e0%ae%ae%e0%af%8d%e0%ae%aa-4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/03/cover-212x300.jpg",
+            "title": "கலீலியோவின் நம்மை மேம்படுத்தும் எண்ணங்கள்"
+        },
+        {
+            "author": "கவின் பிரகாஷ்",
+            "bookid": "05cd6918-7089-4f0f-8c13-264744f29e2f",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%a9%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%a4%e0%af%8b%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%ae%bf%e0%ae%af%e0%ae%b5%e0%af%88-epub-3/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/03/cover-2-272x300.jpg",
+            "title": "மனதில் தோன்றியவை"
+        },
+        {
+            "author": "ராகவ சந்தோஷ்",
+            "bookid": "6883a870-f3d1-4677-97bc-069314d9f527",
+            "category": "நாவல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%af%81%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%ae%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/02/cover-4-200x300.jpg",
+            "title": "முகில் மைக்கல் மர்மம்"
+        },
+        {
+            "author": "கைலாஷி",
+            "bookid": "549059b3-bb4d-4e15-a249-7907a260f094",
+            "category": "ஆன்மிகம்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%b5%e0%ae%a4%e0%af%81%e0%ae%b5%e0%ae%be%e0%ae%b0%e0%ae%95%e0%af%88-%e0%ae%af%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%88-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/02/cover-5-212x300.jpg",
+            "title": "நவதுவாரகை யாத்திரை"
+        },
+        {
             "author": "காவேரி நாதன்",
             "bookid": "f9ed4084-76cb-4f85-8335-e603fec87920",
             "category": "கவிதைகள்",
