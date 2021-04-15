@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "அறிஞர் அண்ணா",
+            "bookid": "057b1381-22dc-4262-a2e1-e9782caf19c8",
+            "category": "புதினம்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%aa%e0%af%8b%e0%ae%a4%e0%ae%bf%e0%ae%aa%e0%af%81%e0%ae%b0%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%a4%e0%ae%b2%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/04/cover-212x300.jpg",
+            "title": "கபோதிபுரத்துக் காதல்"
+        },
+        {
             "author": "ஏற்காடு இளங்கோ",
             "bookid": "f03d6b36-95f5-47d4-be90-78a8e4890e02",
             "category": "அறிவியல்",
