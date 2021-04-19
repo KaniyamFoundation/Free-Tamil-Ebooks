@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "என். வி. கலைமணி",
+            "bookid": "e63c5ca5-9c6b-43c6-bc67-a438ad2c62a0",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%ae%9a%e0%ae%b0%e0%af%8d-%e0%ae%87%e0%ae%b0%e0%ae%b5%e0%af%80%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%af%8d-%e0%ae%a4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/04/cover-2-212x300.jpg",
+            "title": "கவியரசர் இரவீந்திரநாத் தாகூர்"
+        },
+        {
             "author": "அ.இம்ரான் ஹக்",
             "bookid": "ac4a6882-0cda-4910-8e44-bec8aea9cb30",
             "category": "புதினம்",
