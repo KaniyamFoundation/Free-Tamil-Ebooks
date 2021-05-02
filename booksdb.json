@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "நிர்மலா ராகவன்",
+            "bookid": "52706f09-ea3c-41ad-b974-b133ef4400f0",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a9%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%87-%e0%ae%9a%e0%af%8a%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%af%8d-epub-5/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-1-212x300.jpg",
+            "title": "எனக்கு மட்டுமே சொந்தம்"
+        },
+        {
+            "author": "வின்சென்ட் காபோ",
+            "bookid": "223aac04-3db3-4f8c-9ab5-25e4d22116e3",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%b1%e0%ae%b5%e0%af%88%e0%ae%af%e0%ae%be%e0%ae%b2%e0%af%8d-%e0%ae%85%e0%ae%b4%e0%ae%95%e0%ae%be%e0%ae%95%e0%ae%bf%e0%ae%b1%e0%ae%a4%e0%af%81-%e0%ae%b5%e0%ae%be%e0%ae%a9%e0%ae%ae%e0%af%8d/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-213x300.jpg",
+            "title": "பறவையால் அழகாகிறது வானம்"
+        },
+        {
             "author": "என். வி. கலைமணி",
             "bookid": "e63c5ca5-9c6b-43c6-bc67-a438ad2c62a0",
             "category": "வாழ்க்கை வரலாறு",
