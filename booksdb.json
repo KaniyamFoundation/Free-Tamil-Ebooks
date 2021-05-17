@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ஆர். பட்டாபிராமன்",
+            "bookid": "9c83be09-f8d9-41e2-80cc-b9c8dfb5b4fc",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%af%8b%e0%ae%b4%e0%ae%b0%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf-%e0%ae%ae%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%ae%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%a9/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-2-212x300.jpg",
+            "title": "தோழர் காந்தி – மகாத்மாவின் சோசலிச உரையாடல்"
+        },
+        {
             "author": "நிர்மலா ராகவன்",
             "bookid": "52706f09-ea3c-41ad-b974-b133ef4400f0",
             "category": "கட்டுரைகள்",
