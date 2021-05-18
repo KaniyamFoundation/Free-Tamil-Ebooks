@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "லாவண்யா ஶ்ரீராம்",
+            "bookid": "be7c4c1e-49ac-49db-b893-01ecbf5423e1",
+            "category": "குறுநாவல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%89%e0%ae%b1%e0%ae%b5%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%95%e0%ae%ae%e0%af%87-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-3-212x300.jpg",
+            "title": "உறவுகள் சுகமே"
+        },
+        {
             "author": "ஆர். பட்டாபிராமன்",
             "bookid": "9c83be09-f8d9-41e2-80cc-b9c8dfb5b4fc",
             "category": "கட்டுரைகள்",
