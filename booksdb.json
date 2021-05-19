@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "குன்றக்குடி அடிகளார்",
+            "bookid": "834fa958-b75a-4ede-90f4-239bcfc94102",
+            "category": "கட்டுரை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%a3%e0%af%8d%e0%ae%9f-%e0%ae%86%e0%ae%9f%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%85%e0%ae%b0/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-4-212x300.jpg",
+            "title": "கம்பன் கண்ட ஆட்சியில் அரசியல் சமூகம்"
+        },
+        {
             "author": "லாவண்யா ஶ்ரீராம்",
             "bookid": "be7c4c1e-49ac-49db-b893-01ecbf5423e1",
             "category": "குறுநாவல்",
