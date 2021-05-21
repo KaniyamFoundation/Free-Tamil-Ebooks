@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "வல்லிக்கண்ணன்",
+            "bookid": "23cf19a4-0ad9-427a-8e25-24ce2aa13b7c",
+            "category": "சிறுகதைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%aa%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%82%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%81-epub-2/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-6-212x300.jpg",
+            "title": "சிறந்த கதைகள் பதிமூன்று"
+        },
+        {
             "author": "அஹமத் இப்ராஹிம்",
             "bookid": "e21cac6d-3300-4520-91f8-d6b133303fbf",
             "category": "குறுநாவல்",
