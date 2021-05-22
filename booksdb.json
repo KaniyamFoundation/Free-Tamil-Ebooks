@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "தம்பலகாமம். த. ஜீவராஜ்",
+            "bookid": "f6cecb0d-0b18-4cb7-ac1d-efa53428170a",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%9e%e0%ae%be%e0%ae%a9%e0%ae%9a%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-7-200x300.jpg",
+            "title": "திருஞானசம்பந்தரின் தமிழ் பக்தி இயக்கத்தில் திருக்கோணேச்சரம் (ஆய்வு)"
+        },
+        {
             "author": "வல்லிக்கண்ணன்",
             "bookid": "23cf19a4-0ad9-427a-8e25-24ce2aa13b7c",
             "category": "சிறுகதைகள்",
