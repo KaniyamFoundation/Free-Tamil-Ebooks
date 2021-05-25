@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "குன்றக்குடி அடிகளார்",
+            "bookid": "a4a90d3a-e9f5-4ced-98d8-4d7eb9334a15",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%a9%e0%af%88-%e0%ae%a4%e0%af%81%e0%ae%b3%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-9-212x300.jpg",
+            "title": "சிந்தனை துளிகள்"
+        },
+        {
             "author": "பேரா. அ. திருமலைமுத்துசாமி",
             "bookid": "b4da134f-6e67-44c5-a699-11cbaba49d8e",
             "category": "கட்டுரைகள்",
