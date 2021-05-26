@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "என்.வி.கலைமணி",
+            "bookid": "ebb96781-2f62-4f93-9e74-609349dff6cd",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%95%e0%ae%be%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%af%81%e0%ae%b0%e0%af%81-%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%ae%95%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-10-212x300.jpg",
+            "title": "மகான் குரு நானக்"
+        },
+        {
             "author": "குன்றக்குடி அடிகளார்",
             "bookid": "a4a90d3a-e9f5-4ced-98d8-4d7eb9334a15",
             "category": "கட்டுரைகள்",
