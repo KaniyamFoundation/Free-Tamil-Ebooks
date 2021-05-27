@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "கி. வா. ஜகந்நாதன்",
+            "bookid": "4342b71e-40d9-447e-97a3-d0a2d1da3bb5",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%af%88%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-11-212x300.jpg",
+            "title": "இலங்கைக் காட்சிகள்"
+        },
+        {
             "author": "என்.வி.கலைமணி",
             "bookid": "ebb96781-2f62-4f93-9e74-609349dff6cd",
             "category": "வாழ்க்கை வரலாறு",
