@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "லாவண்யா ஸ்ரீராம்",
+            "bookid": "72d7b17a-4fbb-4910-8ecb-9a98b800d4a4",
+            "category": "குறுநாவல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%be%e0%ae%a9%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%bf%e0%ae%b2%e0%ae%b5%e0%af%87-epub-4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-13-212x300.jpg",
+            "title": "என் வானின் நிலவே"
+        },
+        {
             "author": "கி. வா. ஜகந்நாதன்",
             "bookid": "4342b71e-40d9-447e-97a3-d0a2d1da3bb5",
             "category": "கட்டுரைகள்",
