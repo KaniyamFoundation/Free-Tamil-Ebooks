@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ந.சிவநேசன்",
+            "bookid": "6bee9097-4108-44f3-9cb9-5c18aca6af1c",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%af%81-%e0%ae%ae%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%ae%e0%ae%b2%e0%af%8d%e0%ae%b2-%e0%ae%95%e0%ae%a3%e0%ae%bf%e0%ae%a4%e0%ae%ae/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-14-208x300.jpg",
+            "title": "எண்ணறிவு மட்டுமல்ல கணிதம் அதையும் தாண்டி"
+        },
+        {
             "author": "லாவண்யா ஸ்ரீராம்",
             "bookid": "72d7b17a-4fbb-4910-8ecb-9a98b800d4a4",
             "category": "குறுநாவல்",
