@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "என்.வி.கலைமணி",
+            "bookid": "9ad4ea9a-2476-4655-a1b7-a4a0802785ce",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b0%e0%ae%ae%e0%ae%a3-%e0%ae%ae%e0%ae%95%e0%ae%b0%e0%ae%bf%e0%ae%b7%e0%ae%bf-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-15-212x300.jpg",
+            "title": "ரமண மகரிஷி"
+        },
+        {
             "author": "ந.சிவநேசன்",
             "bookid": "6bee9097-4108-44f3-9cb9-5c18aca6af1c",
             "category": "அறிவியல்",
