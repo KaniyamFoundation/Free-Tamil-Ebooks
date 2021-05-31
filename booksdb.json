@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "மாக்ஸிம் கார்க்கி",
+            "bookid": "5b3b6614-470e-49cc-bddd-68e34acd5205",
+            "category": "நாவல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%be%e0%ae%af%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-16-212x300.jpg",
+            "title": "தாய்"
+        },
+        {
             "author": "என்.வி.கலைமணி",
             "bookid": "9ad4ea9a-2476-4655-a1b7-a4a0802785ce",
             "category": "வாழ்க்கை வரலாறு",
