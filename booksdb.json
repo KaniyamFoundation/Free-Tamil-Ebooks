@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "என்.வி.கலைமணி",
+            "bookid": "765425a7-a2cb-4c65-bb33-a97fd19b3fa0",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%ef%bb%bf%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%ae%b0%e0%af%8b%e0%ae%9c%e0%ae%bf%e0%ae%a9%e0%ae%bf-%e0%ae%a4%e0%af%87%e0%ae%b5/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-212x300.jpg",
+            "title": "﻿கவிக்குயில் சரோஜினி தேவியின் நம்மை மேம்படுத்தும் எண்ணங்கள்"
+        },
+        {
+            "author": "தொகுப்பு - லெனின் குருசாமி",
+            "bookid": "42899531-d730-4e56-8cc5-0494f9fd34ce",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/twitter-%e0%ae%87%e0%ae%b4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/05/cover-17-212x300.jpg",
+            "title": "twitter இழைகள்"
+        },
+        {
             "author": "மாக்ஸிம் கார்க்கி",
             "bookid": "5b3b6614-470e-49cc-bddd-68e34acd5205",
             "category": "நாவல்",
