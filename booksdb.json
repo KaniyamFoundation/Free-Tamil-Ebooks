@@ -2,6 +2,14 @@
     "books": [
         {
             "author": "என்.வி.கலைமணி",
+            "bookid": "5458a9f4-8dfe-4802-ab14-4f6fb990089d",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%86%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%ae%b0%e0%af%8d%e0%ae%9f%e0%af%8d-%e0%ae%90%e0%ae%a9%e0%af%8d%e0%ae%b8%e0%af%8d%e0%ae%9f%e0%af%88%e0%ae%a9%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%ae%e0%af%8d/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-1-212x300.jpg",
+            "title": "ஆல்பர்ட் ஐன்ஸ்டைனின் நம்மை மேம்படுத்தும் எண்ணங்கள்"
+        },
+        {
+            "author": "என்.வி.கலைமணி",
             "bookid": "765425a7-a2cb-4c65-bb33-a97fd19b3fa0",
             "category": "வாழ்க்கை வரலாறு",
             "epub": "https://freetamilebooks.com/download/%ef%bb%bf%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%ae%b0%e0%af%8b%e0%ae%9c%e0%ae%bf%e0%ae%a9%e0%ae%bf-%e0%ae%a4%e0%af%87%e0%ae%b5/",
