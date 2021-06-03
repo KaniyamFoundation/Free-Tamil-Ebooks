@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "சக்திதாசன் சுப்பிரமணியன்",
+            "bookid": "e2ecb76f-2795-41ee-8c93-a50a68f95337",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%89%e0%ae%b2%e0%ae%95%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%ae%bf%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%95%e0%ae%a4%e0%af%88-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-2-212x300.jpg",
+            "title": "உலகம் பிறந்த கதை"
+        },
+        {
             "author": "என்.வி.கலைமணி",
             "bookid": "5458a9f4-8dfe-4802-ab14-4f6fb990089d",
             "category": "வாழ்க்கை வரலாறு",
