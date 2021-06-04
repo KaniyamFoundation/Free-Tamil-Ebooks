@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "கி.ஆ.பெ.விசுவநாதம்",
+            "bookid": "522cb6a4-607d-4666-a4cf-c1a865eb7ea3",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%b1%e0%ae%b3%e0%af%8d-%e0%ae%95%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%b0%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-3-212x300.jpg",
+            "title": "திருக்குறள் கட்டுரைகள்"
+        },
+        {
             "author": "சக்திதாசன் சுப்பிரமணியன்",
             "bookid": "e2ecb76f-2795-41ee-8c93-a50a68f95337",
             "category": "அறிவியல்",
