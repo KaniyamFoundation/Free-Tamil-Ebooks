@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "தியாகி ப.ராமசாமி",
+            "bookid": "7ddce07d-ea73-4831-aae1-9476b51bc8e8",
+            "category": "சிறுவர்கதை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b9%e0%af%86%e0%ae%b0%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%b2%e0%ae%bf%e0%ae%b8%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-4-212x300.jpg",
+            "title": "ஹெர்க்குலிஸ்"
+        },
+        {
             "author": "கி.ஆ.பெ.விசுவநாதம்",
             "bookid": "522cb6a4-607d-4666-a4cf-c1a865eb7ea3",
             "category": "கட்டுரைகள்",
