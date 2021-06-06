@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "சோலை சுந்தர பெருமாள்",
+            "bookid": "fd430e19-1f5e-4399-a49c-0c3f1cbef1ab",
+            "category": "சிறுகதைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%9e%e0%af%8d%e0%ae%9a%e0%af%88%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%81%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-5-212x300.jpg",
+            "title": "தஞ்சைச் சிறுகதைகள்"
+        },
+        {
             "author": "தியாகி ப.ராமசாமி",
             "bookid": "7ddce07d-ea73-4831-aae1-9476b51bc8e8",
             "category": "சிறுவர்கதை",
