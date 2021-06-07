@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "பேரா. டாக்டர். ரா.சீனிவாசன்",
+            "bookid": "9d1961db-8e01-4356-974b-3457846b7796",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%ae%be%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%b2-%e0%ae%ae%e0%ae%be%e0%ae%a4%e0%ae%99%e0%af%8d%e0%ae%95/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-6-212x300.jpg",
+            "title": "இங்கிலாந்தில் சில மாதங்கள்"
+        },
+        {
             "author": "சோலை சுந்தர பெருமாள்",
             "bookid": "fd430e19-1f5e-4399-a49c-0c3f1cbef1ab",
             "category": "சிறுகதைகள்",
