@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "என்.வி.கலைமணி",
+            "bookid": "234bb837-452d-464c-8305-b8f6df406c8a",
+            "category": "வாழ்க்கை வரலாறு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b2%e0%ae%bf%e0%ae%af%e0%af%8b-%e0%ae%9f%e0%ae%be%e0%ae%b2%e0%af%8d%e0%ae%b8%e0%af%8d%e0%ae%9f%e0%ae%be%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%ae%e0%af%8d%e0%ae%ae%e0%af%88/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-7-212x300.jpg",
+            "title": "லியோ டால்ஸ்டாயின் நம்மை மேம்படுத்தும் எண்ணங்கள்"
+        },
+        {
             "author": "பேரா. டாக்டர். ரா.சீனிவாசன்",
             "bookid": "9d1961db-8e01-4356-974b-3457846b7796",
             "category": "கட்டுரைகள்",
