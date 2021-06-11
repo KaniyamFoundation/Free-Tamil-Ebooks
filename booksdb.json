@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "ஏற்காடு இளங்கோ",
+            "bookid": "2e800183-d61b-4c2c-aa0b-f1348c44e6ad",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a9%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%95%e0%ae%be%e0%ae%af%e0%af%8d%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%ae%b2%e0%af%8d-%e0%ae%8e%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%ae%be%e0%ae%b2%e0%af%8d/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-9-212x300.jpg",
+            "title": "எனக்கு காய்ச்சல் என்றால் பயம்"
+        },
+        {
+            "author": "பொன் குலேந்திரன்",
+            "bookid": "23b29630-9506-41f7-9b44-523a155c1b3d",
+            "category": "சிறுகதைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%b0%e0%af%81-%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%a8%e0%ae%a3%e0%af%8d%e0%ae%aa%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-10-scaled-212x300.jpg",
+            "title": "இரு அறிவியல் நண்பர்கள்"
+        },
+        {
             "author": "நா. பார்த்தசாரதி",
             "bookid": "38f0acdf-7d2b-4e95-9e13-3017c48ea813",
             "category": "நாவல்",
