@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ரவி நடராஜன்",
+            "bookid": "1804ff87-127d-45dc-a2dc-bc2330c10420",
+            "category": "நுட்பம்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%85%e0%ae%9f%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%a8%e0%ae%bf%e0%ae%a4%e0%ae%bf/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-13-212x300.jpg",
+            "title": "இந்திய அடுக்கு – ஒரு நிதிப் புரட்சி"
+        },
+        {
             "author": "பாலகிருஷ்ணன்",
             "bookid": "4db0c204-f224-45ff-8e78-3c0b2564e1a8",
             "category": "ஆன்மிகம்",
