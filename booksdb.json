@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "கவிஞர் கருணானந்தம்",
+            "bookid": "cc848582-5501-48c1-9187-6fe5534cd11f",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%be-%e0%ae%9a%e0%ae%bf%e0%ae%b2-%e0%ae%a8%e0%ae%bf%e0%ae%a9%e0%af%88%e0%ae%b5%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/06/cover-15-212x300.jpg",
+            "title": "அண்ணா சில நினைவுகள்"
+        },
+        {
             "author": "ரவி நடராஜன்",
             "bookid": "1804ff87-127d-45dc-a2dc-bc2330c10420",
             "category": "நுட்பம்",
