@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ஏற்காடு இளங்கோ",
+            "bookid": "bdce7a7e-2a62-477b-b260-7bba2f860dc1",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%a9%e0%af%87%e0%ae%be-%e0%ae%a4%e0%ae%be%e0%ae%b5%e0%ae%b0%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/07/cover-212x300.jpg",
+            "title": "அல்பினோ தாவரங்கள்"
+        },
+        {
             "author": "லியோ டால்ஸ்டாய்",
             "bookid": "a63c844f-674f-496a-8349-4ec61d8ecb3e",
             "category": "கட்டுரைகள்",
