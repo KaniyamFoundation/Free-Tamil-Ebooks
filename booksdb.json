@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "எஸ் விஸ்வநாதன்",
+            "bookid": "9de340d3-2d5d-43bf-9abe-80378aa4f7b0",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%8a%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%af%81%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%81-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%af%88-%e0%ae%aa%e0%af%81%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%81-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/07/cover-1-212x300.jpg",
+            "title": "சொல் புதிது சுவை புதிது"
+        },
+        {
             "author": "ஏற்காடு இளங்கோ",
             "bookid": "bdce7a7e-2a62-477b-b260-7bba2f860dc1",
             "category": "அறிவியல்",
