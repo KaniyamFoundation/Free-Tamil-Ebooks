@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "இரா.அசோகன்",
+            "bookid": "12eed9ca-6d73-49c5-9743-4a1ba3a63796",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-vr-ar-mr-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/07/cover-2-212x300.jpg",
+            "title": "எளிய தமிழில் VR/AR/MR"
+        },
+        {
             "author": "எஸ் விஸ்வநாதன்",
             "bookid": "9de340d3-2d5d-43bf-9abe-80378aa4f7b0",
             "category": "கட்டுரைகள்",
