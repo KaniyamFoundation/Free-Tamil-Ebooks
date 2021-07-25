@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "தஞ்சை கிருஷ்ணா",
+            "bookid": "583f90ef-25a2-4a1f-9a90-2a63c85860d0",
+            "category": "கவிதைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%af%81%e0%ae%a4%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/07/cover-3-200x300.jpg",
+            "title": "முதல் முத்துக்கள்"
+        },
+        {
             "author": "இரா.அசோகன்",
             "bookid": "12eed9ca-6d73-49c5-9743-4a1ba3a63796",
             "category": "அறிவியல்",
