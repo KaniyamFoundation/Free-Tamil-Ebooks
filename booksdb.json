@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "இரா.அசோகன்",
+            "bookid": "854fbae8-941b-475f-8085-72aeed31a952",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-computer-vision-epub-4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/08/cover-1-212x300.jpg",
+            "title": "எளிய தமிழில் Computer Vision"
+        },
+        {
+            "author": "கவிஞர் கு.மகாதேவன்",
+            "bookid": "2a03860f-91ed-43cd-8cbe-5948b873eafc",
+            "category": "கவிதைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%8b%e0%ae%9f%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%af%82%e0%ae%b4%e0%ae%be%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b2%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/08/cover-212x300.jpg",
+            "title": "சிற்றோடையின் கூழாங்கல்"
+        },
+        {
             "author": "தஞ்சை கிருஷ்ணா",
             "bookid": "583f90ef-25a2-4a1f-9a90-2a63c85860d0",
             "category": "கவிதைகள்",
