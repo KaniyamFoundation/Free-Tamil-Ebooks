@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "அ.இம்ரான்",
+            "bookid": "21622eb8-4403-4c74-8e05-5ac28f9db9b2",
+            "category": "கவிதை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8f%e0%ae%a4%e0%af%87%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%95%e0%ae%b0%e0%ae%ae%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/09/cover-1-225x300.jpg",
+            "title": "ஏதேன் நகரம்"
+        },
+        {
+            "author": "சங்கத் தமிழன்",
+            "bookid": "d49b5dd4-542f-4066-9cb0-e739f7ab4b5a",
+            "category": "கவிதை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%af%87%e0%ae%b0%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%aa%e0%af%82-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/09/cover-212x300.jpg",
+            "title": "வேர் விட்ட பூ"
+        },
+        {
             "author": "இரா.அசோகன்",
             "bookid": "854fbae8-941b-475f-8085-72aeed31a952",
             "category": "அறிவியல்",
