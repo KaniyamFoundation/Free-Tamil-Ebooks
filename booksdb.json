@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "இரா.அசோகன்",
+            "bookid": "c6011f06-40d3-441b-b74a-896dfef2057b",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-iot-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/09/cover-2-212x300.jpg",
+            "title": "எளிய தமிழில் IOT"
+        },
+        {
             "author": "அ.இம்ரான்",
             "bookid": "21622eb8-4403-4c74-8e05-5ac28f9db9b2",
             "category": "கவிதை",
