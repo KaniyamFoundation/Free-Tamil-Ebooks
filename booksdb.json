@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "நிர்மலா ராகவன்",
+            "bookid": "5c425174-f224-4d08-89f7-305f6f7ed146",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%af%8b%e0%ae%95%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af-%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%ae/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/09/cover-3-212x300.jpg",
+            "title": "தேடிப் போகவேண்டிய செல்வம்"
+        },
+        {
             "author": "இரா.அசோகன்",
             "bookid": "c6011f06-40d3-441b-b74a-896dfef2057b",
             "category": "அறிவியல்",
