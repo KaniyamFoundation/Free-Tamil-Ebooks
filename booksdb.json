@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "இரா.அசோகன்",
+            "bookid": "bc495742-137a-47cc-a327-dbd840d13df3",
+            "category": "அறிவியல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-cad-cam-cae-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/09/cover-4-212x300.jpg",
+            "title": "எளிய தமிழில் CAD/CAM/CAE"
+        },
+        {
             "author": "நிர்மலா ராகவன்",
             "bookid": "5c425174-f224-4d08-89f7-305f6f7ed146",
             "category": "கட்டுரைகள்",
