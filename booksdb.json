@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ஜேம்ஸ் ஆலன்",
+            "bookid": "338f9587-b5bd-430f-8c28-bc0d29e6ce7d",
+            "category": "கட்டுரை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%af%88-%e0%ae%a8%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%a3%e0%ae%af%e0%ae%bf%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%86%e0%ae%b1-10/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/10/cover-1-212x300.jpg",
+            "title": "விதியை நிர்ணயிக்கும் ஆற்றல்"
+        },
+        {
             "author": "இரா.அசோகன்",
             "bookid": "bc495742-137a-47cc-a327-dbd840d13df3",
             "category": "அறிவியல்",
