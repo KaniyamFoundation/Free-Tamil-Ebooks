@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ஸ்வாதிகா",
+            "bookid": "f6f514f7-f6fa-4efd-a539-86c7e85bff67",
+            "category": "கட்டுரை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b8%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%bf%e0%ae%b1%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b2%e0%af%8d%e0%ae%95/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/cover-211x300.jpg",
+            "title": "ஸ்வாதிகாவின் கிறுக்கல்கள்"
+        },
+        {
             "author": "ஜேம்ஸ் ஆலன்",
             "bookid": "338f9587-b5bd-430f-8c28-bc0d29e6ce7d",
             "category": "கட்டுரை",
