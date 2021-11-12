@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "தமிழன்.திரு.இங்கர்சால், நார்வே",
+            "bookid": "29dd71a3-f40b-47a4-86ec-bb7cc1a470e8",
+            "category": "ஆய்வு",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81-%e0%ae%87%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%8d-%e0%ae%86%e0%ae%af/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/cover-1-212x300.jpg",
+            "title": "தமிழ்நாட்டு இடப்பெயர் ஆய்வு"
+        },
+        {
             "author": "ஸ்வாதிகா",
             "bookid": "f6f514f7-f6fa-4efd-a539-86c7e85bff67",
             "category": "கட்டுரை",
