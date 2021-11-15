@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "நிர்மலா ராகவன்",
+            "bookid": "47f38396-8e03-4a1e-bed8-693121c76523",
+            "category": "நாடகம்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%88-%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8b-epub-2/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/cover-4-212x300.jpg",
+            "title": "அன்னை யாரோ"
+        },
+        {
+            "author": "லாவண்யா ஶ்ரீராம்",
+            "bookid": "f1d5990a-457f-47a7-a0c7-d610e8d01402",
+            "category": "குறுநாவல்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%89%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%89%e0%ae%b1%e0%ae%b5%e0%af%87-epub-4/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/cover-3-201x300.jpg",
+            "title": "உயிரின் உறவே"
+        },
+        {
             "author": "கைலாஷி",
             "bookid": "b824aa43-79bc-4a4c-8dec-946a8c75bbb2",
             "category": "ஆன்மிகம்",
