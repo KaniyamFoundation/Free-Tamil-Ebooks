@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அல்பினோ விலங்குகள்",
+      "bookid": "1ac88cce-29a9-4aba-8372-37cee26b429e",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/albino_animals.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%a9%e0%af%8b-%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "பணம் தரும் பயிர்கள்",
       "bookid": "1b1cb402-7575-4e0b-8130-782222c9617e",
       "author": "ஏற்காடு இளங்கோ",
