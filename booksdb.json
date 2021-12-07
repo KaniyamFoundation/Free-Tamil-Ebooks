@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "ஆர். பட்டாபிராமன்",
+            "bookid": "c43e888a-cd4f-4458-bb23-18bda9a19f04",
+            "category": "கட்டுரை",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%b2%e0%af%86%e0%ae%a9%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%95%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%b0%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/12/cover-212x300.jpg",
+            "title": "லெனின் நான்கு கட்டுரைகள்"
+        },
+        {
             "author": "ஏற்காடு இளங்கோ",
             "bookid": "1ac88cce-29a9-4aba-8372-37cee26b429e",
             "category": "கட்டுரைகள்",
