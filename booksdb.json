@@ -1,6 +1,22 @@
 {
     "books": [
         {
+            "author": "ஏற்காடு இளங்கோ",
+            "bookid": "4588773c-e432-4b98-8304-0176bff4130b",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%a9%e0%af%8b-%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/albino_animals-201x300.jpg",
+            "title": "அல்பினோ விலங்குகள்"
+        },
+        {
+            "author": "ஏற்காடு",
+            "bookid": "6e1809b3-c876-4d68-9671-62d919213e02",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%a3%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%ae%af%e0%ae%bf%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2021/11/cash_crops-201x300.jpg",
+            "title": "பணம் தரும் பயிர்கள்"
+        },
+        {
             "author": "ஆர். பட்டாபிராமன்",
             "bookid": "c43e888a-cd4f-4458-bb23-18bda9a19f04",
             "category": "கட்டுரை",
