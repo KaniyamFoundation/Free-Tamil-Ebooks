@@ -1,6 +1,14 @@
 {
     "books": [
         {
+            "author": "பேராசிரியர். டாக்டர் . செம்மல் மணவை முஸ்தபா",
+            "bookid": "95e5415c-5f96-482c-96d5-a6fa005b3960",
+            "category": "கட்டுரைகள்",
+            "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%b0%e0%af%81%e0%ae%a8%e0%af%82%e0%ae%b2%e0%af%8d-%e0%ae%a4%e0%af%8a%e0%ae%95%e0%af%81%e0%ae%a4%e0%ae%bf-1-epub-2/",
+            "image": "https://freetamilebooks.com/wp-content/uploads/2022/01/tamil_peru_nool_1_cover-1-186x300.jpg",
+            "title": "தமிழ்ப் பெருநூல் – தொகுதி 1"
+        },
+        {
             "author": "ஏற்காடு இளங்கோ",
             "bookid": "4588773c-e432-4b98-8304-0176bff4130b",
             "category": "கட்டுரைகள்",
