@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எல்லாரும் முட்டாள்கள் என்னைத் தவிர",
+      "bookid": "3b2ab399-c57f-4bbb-9057-5a3fcabece5c",
+      "author": "நிர்மலா ராகவன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/07/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%be%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%ae%e0%af%81%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%be%e0%ae%b3%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%8e-9/",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "துருவங்கள்",
       "bookid": "75a05721-bcdc-467d-a4c6-f0a36d882b9f",
       "author": "நக்கீரன்.ந",
