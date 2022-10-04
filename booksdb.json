@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "புகழின் விலை",
+      "bookid": "43d5b788-5c7a-4663-8187-0d96acd6788d",
+      "author": "நிர்மலா ராகவன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%81%e0%ae%95%e0%ae%b4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%88-epub-4/",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "இந்திய மாநில மரங்கள்",
       "bookid": "1d6594c3-9bdd-430c-8f95-bb5a533bbd95",
       "author": "ஏற்காடு இளங்கோ",
