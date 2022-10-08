@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "தூக்குத் தண்டனை",
+      "bookid": "fe63ce07-cc0f-46b6-a974-eb13e0f8a9b7",
+      "author": "கல்கி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%af%82%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%a9%e0%af%88-epub/",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "காரிருளில் ஒரு மின்னல்",
       "bookid": "68e3a36b-a630-46ac-8c60-6c30ece94e1f",
       "author": "கல்கி",
