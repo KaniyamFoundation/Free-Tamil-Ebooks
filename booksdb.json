@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "﻿அரம்பை",
+      "bookid": "d7495ee5-868f-4f3e-a574-bd8a87f6e89b",
+      "author": "ஷோபாசக்தி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-6.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b0%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%88-epub/",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "தூக்குத் தண்டனை",
       "bookid": "fe63ce07-cc0f-46b6-a974-eb13e0f8a9b7",
       "author": "கல்கி",
