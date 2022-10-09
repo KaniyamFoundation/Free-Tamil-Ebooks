@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "நாயன்மார்கள்",
+      "bookid": "7a3c5e76-75a0-4b7e-9189-840acc06771b",
+      "author": "ஷக்திப்ரபா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-10.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%af%e0%ae%a9%e0%af%8d%e0%ae%ae%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/",
+      "category": "ஆன்மிகம்"
+    },
+    {
       "title": "﻿கச்சாமி",
       "bookid": "62638cdb-eaa2-4e51-98bb-58788a1cf2f9",
       "author": "ஷோபாசக்தி",
