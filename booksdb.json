@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "டிஜிட்டல் விளம்பரங்களை தடுப்பது எப்படி ?",
+      "bookid": "5df04a15-0346-488f-a740-88eb0db38f90",
+      "author": "பிரசன்ன வெங்கடேஷ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-17.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9f%e0%ae%bf%e0%ae%9c%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%b2%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%b3%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%b0%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%88-%e0%ae%a4/?tmstv=1666702756",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "க.அயோத்திதாஸப் பண்டிதர் சிந்தனைகள் - 1",
       "bookid": "1c043943-ee68-4b19-8dfb-3890145a96dd",
       "author": "க.அயோத்திதாஸப் பண்டிதர்",
