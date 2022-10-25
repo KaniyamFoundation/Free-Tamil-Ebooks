@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "க.அயோத்திதாஸப் பண்டிதர் சிந்தனைகள் - 2",
+      "bookid": "4aed67de-21e8-4b95-a446-a36189c5c789",
+      "author": "க.அயோத்திதாஸப் பண்டிதர்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-18.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95-%e0%ae%85%e0%ae%af%e0%af%8b%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%ae%be%e0%ae%b8%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%af%8d-5/?tmstv=1666707136",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "டிஜிட்டல் விளம்பரங்களை தடுப்பது எப்படி ?",
       "bookid": "5df04a15-0346-488f-a740-88eb0db38f90",
       "author": "பிரசன்ன வெங்கடேஷ்",
