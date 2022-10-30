@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "கலைச்செல்வங்கள்",
+      "bookid": "d4bea934-dbf4-4f25-8e7d-9cc8c63c1adc",
+      "author": "இரா.நாகசாமி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-19.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%af%88%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1667142935",
+      "category": "வரலாறு"
+    },
+    {
       "title": "க.அயோத்திதாஸப் பண்டிதர் சிந்தனைகள் - 2",
       "bookid": "4aed67de-21e8-4b95-a446-a36189c5c789",
       "author": "க.அயோத்திதாஸப் பண்டிதர்",
