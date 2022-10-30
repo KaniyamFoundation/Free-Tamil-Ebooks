@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பழைய சொல் புதிய தேடல்",
+      "bookid": "dafcfe67-8ff6-49b1-b784-ca0d0fdac733",
+      "author": "அண்டனூர் சுரா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-25.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%b4%e0%af%88%e0%ae%af-%e0%ae%9a%e0%af%8a%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%af%81%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%b2%e0%af%8d-epub/?tmstv=1667171918",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "துப்பறியும் துர்கா",
       "bookid": "d3143948-f017-4646-a3d1-a3c844c5c072",
       "author": "தீக்கதிர்",
