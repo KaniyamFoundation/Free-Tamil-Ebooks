@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "துப்பறியும் துர்கா",
+      "bookid": "d3143948-f017-4646-a3d1-a3c844c5c072",
+      "author": "தீக்கதிர்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-24.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%b1%e0%ae%bf%e0%ae%af%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%af%81%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%be-epub/?tmstv=1667167932",
+      "category": "சிறுவர் கதைகள்"
+    },
+    {
       "title": "﻿அயோத்திதாசர் சிந்தனைகள் - சமூகம்",
       "bookid": "ff0eb853-b8bb-4e53-8464-64269c3ead8c",
       "author": "ஞான. அலாய்சியஸ்",
