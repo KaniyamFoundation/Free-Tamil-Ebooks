@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அறிவியல் கதிர் - 2",
+      "bookid": "5661c0c1-d0d7-4ac8-b642-ba439c03b56a",
+      "author": "தீக்கதிர்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-21.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b1%e0%ae%bf%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%8d-2-epub/?tmstv=1667155969",
+      "category": "அறிவியல்"
+    },
+    {
       "title": "க.அயோத்திதாஸப் பண்டிதர் சிந்தனைகள் - 4",
       "bookid": "d6b4ebee-a32e-4fbb-aee5-9b44cd4acd6d",
       "author": "க.அயோத்திதாஸப் பண்டிதர்",
