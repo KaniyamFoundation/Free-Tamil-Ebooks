@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "க.அயோத்திதாஸப் பண்டிதர் சிந்தனைகள் - 4",
+      "bookid": "d6b4ebee-a32e-4fbb-aee5-9b44cd4acd6d",
+      "author": "க.அயோத்திதாஸப் பண்டிதர்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-20.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95-%e0%ae%85%e0%ae%af%e0%af%8b%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%ae%be%e0%ae%b8%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a4%e0%ae%b0%e0%af%8d-9/?tmstv=1667151986",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "கலைச்செல்வங்கள்",
       "bookid": "d4bea934-dbf4-4f25-8e7d-9cc8c63c1adc",
       "author": "இரா.நாகசாமி",
