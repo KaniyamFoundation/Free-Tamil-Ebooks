@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஒரு நிமிடக் கதைகள்",
+      "bookid": "81fe546e-b42f-4004-acd1-4d86d544d2ce",
+      "author": "வரத இராஜமாணிக்கம்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-27.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%a8%e0%ae%bf%e0%ae%ae%e0%ae%bf%e0%ae%9f%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1667179886",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "பயணக்குறிப்புகள்",
       "bookid": "facc0267-312a-4c1a-a2b1-8e2cae8247cd",
       "author": "நா.வே.அருள்",
