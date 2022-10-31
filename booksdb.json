@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பயணக்குறிப்புகள்",
+      "bookid": "facc0267-312a-4c1a-a2b1-8e2cae8247cd",
+      "author": "நா.வே.அருள்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-26.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%b1%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1667175901",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "பழைய சொல் புதிய தேடல்",
       "bookid": "dafcfe67-8ff6-49b1-b784-ca0d0fdac733",
       "author": "அண்டனூர் சுரா",
