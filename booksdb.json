@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஆங்கிலம் கற்பது எளிதே",
+      "bookid": "b89dae1f-efd4-413c-94b1-da5da9b31fa2",
+      "author": "முனைவர். டி.ஆர்.சுதா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/10/cover-30.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%86%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%ae%b1%e0%af%8d%e0%ae%aa%e0%ae%a4%e0%af%81-%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%a4%e0%af%87-epub/?tmstv=1667199443",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "﻿அயோத்திதாசர் சிந்தனைகள் - இலக்கியம்",
       "bookid": "172b1fe4-fd91-4f48-a4d9-955fb8cdcd53",
       "author": "ஞான. அலாய்சியஸ்",
