@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அலை ஓசை - 1 மற்றும் 2",
+      "bookid": "4957df77-ccba-4a12-a114-b9cfb8a96bcc",
+      "author": "கல்கி கிருஷ்ணமூர்த்தி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/11/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b2%e0%af%88-%e0%ae%93%e0%ae%9a%e0%af%88-1-%e0%ae%ae%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%ae%e0%af%8d-2-epub/?tmstv=1667645696",
+      "category": "நாவல்"
+    },
+    {
       "title": "மகாத்மா",
       "bookid": "68607797-c7e4-4624-bb33-9d8df4c4c1f6",
       "author": "உ. இளமதி அறிவுடைநம்பி",
