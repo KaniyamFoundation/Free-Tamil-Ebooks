@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "மகாத்மா",
+      "bookid": "68607797-c7e4-4624-bb33-9d8df4c4c1f6",
+      "author": "உ. இளமதி அறிவுடைநம்பி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/11/cover-2.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%95%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%ae%e0%ae%be-epub/?tmstv=1667641707",
+      "category": "கட்டுரை"
+    },
+    {
       "title": "கல்லும் சொல்லும்",
       "bookid": "50ef2c8f-fddf-4eab-bfd6-e41595e9b7a9",
       "author": "டாக்டர். இரா.நாகசாமி",
