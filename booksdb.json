@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஒரு ஈயின் ஆசை",
+      "bookid": "5d95b125-e521-4425-b2c0-033e814a52f8",
+      "author": "நாரா நாச்சியப்பன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/11/cover-11.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%86%e0%ae%9a%e0%af%88-epub/?tmstv=1668420738",
+      "category": "சிறுவர் கதைகள்"
+    },
+    {
       "title": "கங்கைகொண்ட சோழபுரம்",
       "bookid": "b22df07f-d647-424e-b6eb-bd1fe8697610",
       "author": "டாக்டர். இரா.நாகசாமி",
