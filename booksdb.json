@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "விழிப்(புடனிருந்திடுக)பாயிருந்திடுக",
+      "bookid": "9977d5b5-70c3-4d31-8c77-752489c39e74",
+      "author": "முனைவர் ச. குப்பன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/11/cover-16.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%9f%e0%ae%a9%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%aa%e0%ae%be/?tmstv=1668448017",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "முத்துவும் முப்பது திருடர்களும்",
       "bookid": "69342302-76d8-493e-ad31-db29a086a7c9",
       "author": "சென்னை பெருநகர காவல்துறை",
