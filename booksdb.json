@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "கோடுகளும் கோலங்களும்",
+      "bookid": "032111d9-5634-40d9-82ba-2708af1d155a",
+      "author": "ராஜம் கிருஷ்ணன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/11/cover-12.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%af%8b%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%95%e0%af%8b%e0%ae%b2%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%ae%e0%af%8d-epub/?tmstv=1668424730",
+      "category": "நாவல்"
+    },
+    {
       "title": "ஒரு ஈயின் ஆசை",
       "bookid": "5d95b125-e521-4425-b2c0-033e814a52f8",
       "author": "நாரா நாச்சியப்பன்",
