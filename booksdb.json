@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "புது வெள்ளம் (சங்கநூற் காட்சிகள் )",
+      "bookid": "ba75c8a9-b982-4141-b9d8-2df100f98ea3",
+      "author": "கி.வா.ஜகந்நாதன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-2.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%81-%e0%ae%b5%e0%af%86%e0%ae%b3%e0%af%8d%e0%ae%b3%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%a8%e0%af%82%e0%ae%b1%e0%af%8d-%e0%ae%95%e0%ae%be/?tmstv=1671376903",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "வளமான வாழ்வைக் கட்டமைக்கும் எட்டு தூண்கள்",
       "bookid": "199db7ba-235e-483e-b4e8-aaa9925ad896",
       "author": "ஜேம்ஸ் ஆலன்",
