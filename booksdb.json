@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஒரு சாத்தியத்தின் அழுகை",
+      "bookid": "b3abb83c-ac51-4395-bee8-0a76f6f04f9f",
+      "author": "சு. சமுத்திரம்‌",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%9a%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%85%e0%ae%b4%e0%af%81%e0%ae%95%e0%af%88-epub/?tmstv=1671380861",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "புது வெள்ளம் (சங்கநூற் காட்சிகள் )",
       "bookid": "ba75c8a9-b982-4141-b9d8-2df100f98ea3",
       "author": "கி.வா.ஜகந்நாதன்",
