@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பேரறிஞர் அண்ணாவின் நேர்காணல்கள்",
+      "bookid": "f46f2aba-5116-4670-94ea-be109a8118a5",
+      "author": "அண்ணாதுரை",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%87%e0%ae%b0%e0%ae%b1%e0%ae%bf%e0%ae%9e%e0%ae%b0%e0%af%8d-%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%95/?tmstv=1671388776",
+      "category": "நேர்காணல்"
+    },
+    {
       "title": "அனைத்திற்குமான கோட்பாடு",
       "bookid": "66bcb420-2406-4060-b475-b3896ad13a1f",
       "author": "ஸ்டீஃபன் ஹாக்கிங்",
