@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஓவியப்பாவை",
+      "bookid": "99a88d81-a6f6-4ebe-9f98-ceaa248caf59",
+      "author": "டாக்டர். இரா.நாகசாமி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-7.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%93%e0%ae%b5%e0%ae%bf%e0%ae%af%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%b5%e0%af%88-epub/?tmstv=1671396697",
+      "category": "வரலாறு"
+    },
+    {
       "title": "பேரறிஞர் அண்ணாவின் கடிதங்கள் - 2",
       "bookid": "9f00d948-e009-4a8e-9828-d78d6c00eee7",
       "author": "அண்ணாதுரை",
