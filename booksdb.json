@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "நல்வாசலின் வழியே அல்லது கிறிஸ்துவும் நல்லொழுக்கமும்",
+      "bookid": "84168c05-be13-4df0-aca3-fdd5528f21e5",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-8.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%be%e0%ae%9a%e0%ae%b2%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%af%87-%e0%ae%85%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%ae%a4%e0%af%81/?tmstv=1671400657",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "ஓவியப்பாவை",
       "bookid": "99a88d81-a6f6-4ebe-9f98-ceaa248caf59",
       "author": "டாக்டர். இரா.நாகசாமி",
