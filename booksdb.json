@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அனைத்திற்குமான கோட்பாடு",
+      "bookid": "66bcb420-2406-4060-b475-b3896ad13a1f",
+      "author": "ஸ்டீஃபன் ஹாக்கிங்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-4.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%a9%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b1%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%ae%e0%ae%be%e0%ae%a9-%e0%ae%95%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%af%81/?tmstv=1671384819",
+      "category": "அறிவியல்"
+    },
+    {
       "title": "ஒரு சாத்தியத்தின் அழுகை",
       "bookid": "b3abb83c-ac51-4395-bee8-0a76f6f04f9f",
       "author": "சு. சமுத்திரம்‌",
