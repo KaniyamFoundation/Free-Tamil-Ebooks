@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "வளமான வாழ்வைக் கட்டமைக்கும் எட்டு தூண்கள்",
+      "bookid": "199db7ba-235e-483e-b4e8-aaa9925ad896",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%b3%e0%ae%ae%e0%ae%be%e0%ae%a9-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%af%88%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%ae%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95/?tmstv=1671372947",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "எட்டி மரக்காடு",
       "bookid": "d49cd0c7-de81-40f1-8dd2-415383151725",
       "author": "அன்பழகன்ஜி",
