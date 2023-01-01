@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "மானிடப் பயணம்",
+      "bookid": "64cbc8f8-d61a-49ab-ad16-153f6a52c9ac",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-8.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%ae%bf%e0%ae%9f%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%ae%e0%af%8d-epub/?tmstv=1672615089",
+      "category": "அறிவியல்"
+    },
+    {
       "title": "காலம் மறந்த இடம்",
       "bookid": "0ed44f94-d608-4701-962a-bfce636ad793",
       "author": "சு.சோமு",
