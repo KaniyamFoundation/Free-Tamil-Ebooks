@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அண்டவெளிப் பயணங்கள்",
+      "bookid": "bed17f7b-38fa-472a-a062-45c774e45cd6",
+      "author": "சி.ஜெயபாரதன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%b5%e0%af%86%e0%ae%b3%e0%ae%bf%e0%ae%aa%e0%af%8d-%e0%ae%aa%e0%ae%af%e0%ae%a3%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1672603199",
+      "category": "அறிவியல்"
+    },
+    {
       "title": "விண்வெளியில் பெண்கள்",
       "bookid": "efa96ccd-2794-4a7e-88f0-c1ae0e7a76f5",
       "author": "ஏற்காடு இளங்கோ",
