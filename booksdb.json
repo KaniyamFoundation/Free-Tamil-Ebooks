@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பெனிசிலினைக் கண்டுபிடித்த அலெக்சாண்டர் பிளெமிங்",
+      "bookid": "dfd578b3-8a3a-462b-957f-8c45556b4fa7",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%86%e0%ae%a9%e0%ae%bf%e0%ae%9a%e0%ae%bf%e0%ae%b2%e0%ae%bf%e0%ae%a9%e0%af%88%e0%ae%95%e0%af%8d-%e0%ae%95%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%aa%e0%ae%bf%e0%ae%9f%e0%ae%bf%e0%ae%a4/?tmstv=1672583358",
+      "category": "அறிவியல்"
+    },
+    {
       "title": "நல்வாசலின் வழியே அல்லது கிறிஸ்துவும் நல்லொழுக்கமும்",
       "bookid": "84168c05-be13-4df0-aca3-fdd5528f21e5",
       "author": "ஜேம்ஸ் ஆலன்",
