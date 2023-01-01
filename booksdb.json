@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அவரின் இறுதி வணக்கம்",
+      "bookid": "79c85e9a-912c-491b-a72c-23865b15ead3",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-6.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b5%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%87%e0%ae%b1%e0%af%81%e0%ae%a4%e0%ae%bf-%e0%ae%b5%e0%ae%a3%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/?tmstv=1672607165",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "அண்டவெளிப் பயணங்கள்",
       "bookid": "bed17f7b-38fa-472a-a062-45c774e45cd6",
       "author": "சி.ஜெயபாரதன்",
