@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சோழ நாட்டின் ஊர்-பெயர்",
+      "bookid": "e5b6bcf3-f4c2-424b-9ee8-abedfc1f482b",
+      "author": "கபிலன் வேதரெத்தினம்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%8b%e0%ae%b4-%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%8a%e0%ae%b0%e0%af%8d-%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%8d-epub/?tmstv=1672595264",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "உலகக்கோப்பை கல்பந்து கத்தார் 2022",
       "bookid": "b4ca85a8-0da9-445d-afa5-4eb0c5ac2c6f",
       "author": "தீக்கதிர்",
