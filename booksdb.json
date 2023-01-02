@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "நான் நாத்திகன் – ஏன்",
+      "bookid": "2d0f54b6-50df-4d23-b361-ba0f6be19232",
+      "author": "பகத் சிங்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-10.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%a9%e0%af%8d-%e0%ae%8f%e0%ae%a9%e0%af%8d-epub/?tmstv=1672634255",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "இறந்து கொண்டிருக்கும் துப்பறிவாளன்",
       "bookid": "3812d61f-1fca-4555-9613-2e42d1b718fe",
       "author": "சு.சோமு",
