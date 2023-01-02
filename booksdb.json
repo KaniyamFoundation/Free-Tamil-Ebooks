@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "இறந்து கொண்டிருக்கும் துப்பறிவாளன்",
+      "bookid": "3812d61f-1fca-4555-9613-2e42d1b718fe",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-9.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%87%e0%ae%b1%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%81-%e0%ae%95%e0%af%8a%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%af%81/?tmstv=1672619061",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "மானிடப் பயணம்",
       "bookid": "64cbc8f8-d61a-49ab-ad16-153f6a52c9ac",
       "author": "ஏற்காடு இளங்கோ",
