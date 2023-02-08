@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சேர்வராயன் மலையின் வரலாறு கூறும் புகைப்படங்கள்",
+      "bookid": "e63693e9-5af5-471d-8c7e-3252c52834e7",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%b0%e0%ae%be%e0%ae%af%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%b2%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be-7/?tmstv=1675861409",
+      "category": "வரலாறு"
+    },
+    {
       "title": "எழு",
       "bookid": "5eda1230-c467-4c03-a0ce-1603dcf6d7a6",
       "author": "காமேஷ்",
