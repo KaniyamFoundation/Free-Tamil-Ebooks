@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சாத்தானின் பாதச் சுவடுகள்",
+      "bookid": "2c2e6592-7272-4c42-bdb1-6f862e39ab70",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a9%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%aa%e0%ae%be%e0%ae%a4%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3/?tmstv=1675869329",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "அறைக்குள் அகப்பட்ட வானம்",
       "bookid": "7c52cfac-1937-44a5-b65e-4c4eb3f9a554",
       "author": "அன்பழகன்ஜி",
