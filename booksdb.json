@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பாஸ்கோம் பள்ளத்தாக்கு மர்மம்",
+      "bookid": "1df9da63-d13d-41a3-9fbd-cf287cc02288",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/04/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%be%e0%ae%b8%e0%af%8d%e0%ae%95%e0%af%8b%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%ae%b3%e0%af%8d%e0%ae%b3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%ae%b0/?tmstv=1681669345",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "நாட்டு நலப்பணித் திட்டம்",
       "bookid": "eae2c195-2c18-43a9-ad9c-5d4a6f589352",
       "author": "ஏற்காடு இளங்கோ",
