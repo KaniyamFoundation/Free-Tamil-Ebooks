@@ -1,0 +1,68 @@
+{
+  "books" : [
+    {
+      "title": "பாஸ்கோம் பள்ளத்தாக்கு மர்மம்",
+      "bookid": "1df9da63-d13d-41a3-9fbd-cf287cc02288",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/04/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%be%e0%ae%b8%e0%af%8d%e0%ae%95%e0%af%8b%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%ae%b3%e0%af%8d%e0%ae%b3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%ae%e0%ae%b0/?tmstv=1681669345",
+      "category": "சிறுகதை"
+    },
+    {
+      "title": "நாட்டு நலப்பணித் திட்டம்",
+      "bookid": "eae2c195-2c18-43a9-ad9c-5d4a6f589352",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/04/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81-%e0%ae%a8%e0%ae%b2%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%a3%e0%ae%bf%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%ae%e0%af%8d/?tmstv=1681665371",
+      "category": "கட்டுரை"
+    },
+    {
+      "title": "சாத்தானின் பாதச் சுவடுகள்",
+      "bookid": "2c2e6592-7272-4c42-bdb1-6f862e39ab70",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a9%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%aa%e0%ae%be%e0%ae%a4%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%af%81%e0%ae%b5%e0%ae%9f%e0%af%81%e0%ae%95%e0%ae%b3/?tmstv=1675869329",
+      "category": "சிறுகதை"
+    },
+    {
+      "title": "அறைக்குள் அகப்பட்ட வானம்",
+      "bookid": "7c52cfac-1937-44a5-b65e-4c4eb3f9a554",
+      "author": "அன்பழகன்ஜி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-4.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b1%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81%e0%ae%b3%e0%af%8d-%e0%ae%85%e0%ae%95%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%b5%e0%ae%be%e0%ae%a9%e0%ae%ae%e0%af%8d/?tmstv=1675865369",
+      "category": "குறுநாவல்கள்"
+    },
+    {
+      "title": "சேர்வராயன் மலையின் வரலாறு கூறும் புகைப்படங்கள்",
+      "bookid": "e63693e9-5af5-471d-8c7e-3252c52834e7",
+      "author": "ஏற்காடு இளங்கோ",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%b0%e0%ae%be%e0%ae%af%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%b2%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%b0%e0%ae%b2%e0%ae%be-7/?tmstv=1675861409",
+      "category": "வரலாறு"
+    },
+    {
+      "title": "எழு",
+      "bookid": "5eda1230-c467-4c03-a0ce-1603dcf6d7a6",
+      "author": "காமேஷ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-2.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b4%e0%af%81-epub/?tmstv=1675799061",
+      "category": "சிறுகதைகள்"
+    },
+    {
+      "title": "காலம் மறைத்த மக்கள்",
+      "bookid": "35f00e26-8476-4197-b3e1-73830eb73963",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/02/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%be%e0%ae%b2%e0%ae%ae%e0%af%8d-%e0%ae%ae%e0%ae%b1%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4-%e0%ae%ae%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1675795097",
+      "category": "சிறுகதை"
+    },
+    {
+      "title": "நான் நாத்திகன் – ஏன்",
+      "bookid": "2d0f54b6-50df-4d23-b361-ba0f6be19232",
+      "author": "பகத் சிங்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-10.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%a9%e0%af%8d-%e0%ae%8f%e0%ae%a9%e0%af%8d-epub/?tmstv=1672634255",
+      "category": "கட்டுரைகள்"
+    }
+  ] 
+}
