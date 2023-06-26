@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சிகப்பு வட்ட மர்மம்",
+      "bookid": "e8560048-989f-4b06-8c33-730c749e2f25",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/06/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%95%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%b5%e0%ae%9f%e0%af%8d%e0%ae%9f-%e0%ae%ae%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%ae%e0%af%8d-epub-4/?tmstv=1687748454",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "பாஸ்கோம் பள்ளத்தாக்கு மர்மம்",
       "bookid": "1df9da63-d13d-41a3-9fbd-cf287cc02288",
       "author": "சு.சோமு",
