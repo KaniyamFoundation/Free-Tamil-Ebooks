@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "காலை மாலை சிந்தனைகள்",
+      "bookid": "0a112251-a7dd-4d90-993a-3617899f2d2d",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/09/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%be%e0%ae%b2%e0%af%88-%e0%ae%ae%e0%ae%be%e0%ae%b2%e0%af%88-%e0%ae%9a%e0%ae%bf%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%a9%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub-2/?tmstv=1694146007",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "சிகப்பு வட்ட மர்மம்",
       "bookid": "e8560048-989f-4b06-8c33-730c749e2f25",
       "author": "சு.சோமு",
