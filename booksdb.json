@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் Pandas",
+      "bookid": "1aaa7360-7b7c-43b6-9a64-cfe0d461aae6",
+      "author": "து. நித்யா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/09/pandas.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-pandas-epub/?tmstv=1694842650",
+      "category": "கணினி அறிவியல்"
+    },
+    {
       "title": "காலை மாலை சிந்தனைகள்",
       "bookid": "0a112251-a7dd-4d90-993a-3617899f2d2d",
       "author": "ஜேம்ஸ் ஆலன்",
