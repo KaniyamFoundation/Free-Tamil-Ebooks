@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "வாழ்க்கையில்(ன்) வினாக்கள்  விடைகள் !",
+      "bookid": "6b15f074-a687-4531-b39c-0976f8e38957",
+      "author": "சிவகுமாரி ஆவுடையப்பன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2023/09/questions-answers-on-life-scaled.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95/?tmstv=1695350509",
+      "category": "அனுபவங்கள்"
+    },
+    {
       "title": "எளிய தமிழில் Pandas",
       "bookid": "1aaa7360-7b7c-43b6-9a64-cfe0d461aae6",
       "author": "து. நித்யா",
