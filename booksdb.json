@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "வெற்றிகரமான வாழ்வு",
+      "bookid": "4e1047d8-9865-45b2-99d8-da7a59511ba3",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-2.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%af%86%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf%e0%ae%95%e0%ae%b0%e0%ae%ae%e0%ae%be%e0%ae%a9-%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%af%81-epub/?tmstv=1714605586",
+      "category": "கட்டுரை"
+    },
+    {
       "title": "பேராலயமும் சந்தையும்",
       "bookid": "4d909552-db33-4e93-bf4b-53e8d974b640",
       "author": "எரிக் ரேமண்ட்",
