@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஒரே ஒரு இட்லி",
+      "bookid": "a6c20023-085b-4b16-845e-9b05c51793c0",
+      "author": "நிர்மலா ராகவன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-3.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%92%e0%ae%b0%e0%af%87-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%87%e0%ae%9f%e0%af%8d%e0%ae%b2%e0%ae%bf-epub/?tmstv=1714606151",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "வெற்றிகரமான வாழ்வு",
       "bookid": "4e1047d8-9865-45b2-99d8-da7a59511ba3",
       "author": "ஜேம்ஸ் ஆலன்",
