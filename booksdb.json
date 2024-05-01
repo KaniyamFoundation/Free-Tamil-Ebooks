@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் 3D Printing",
+      "bookid": "71e88c3c-7fb1-44a1-9193-30093ee1d181",
+      "author": "இரா. அசோகன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-4.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-3d-printing-epub/?tmstv=1714606703",
+      "category": "நுட்பம்"
+    },
+    {
       "title": "ஒரே ஒரு இட்லி",
       "bookid": "a6c20023-085b-4b16-845e-9b05c51793c0",
       "author": "நிர்மலா ராகவன்",
