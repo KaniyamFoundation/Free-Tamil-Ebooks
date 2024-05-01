@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பேராலயமும் சந்தையும்",
+      "bookid": "4d909552-db33-4e93-bf4b-53e8d974b640",
+      "author": "எரிக் ரேமண்ட்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%87%e0%ae%b0%e0%ae%be%e0%ae%b2%e0%ae%af%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%9a%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%88%e0%ae%af%e0%af%81%e0%ae%ae%e0%af%8d-epub/?tmstv=1714605027",
+      "category": "கணினி நுட்பம்"
+    },
+    {
       "title": "நெருப்பாற்றினுள் ஓர் உள்நீச்சல்",
       "bookid": "737ef8f9-6b9a-4bca-88e8-95d84be190ff",
       "author": "கவிஞர் அமுதாராம்",
