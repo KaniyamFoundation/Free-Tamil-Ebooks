@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "நெருப்பாற்றினுள் ஓர் உள்நீச்சல்",
+      "bookid": "737ef8f9-6b9a-4bca-88e8-95d84be190ff",
+      "author": "கவிஞர் அமுதாராம்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%af%86%e0%ae%b0%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%b1%e0%af%8d%e0%ae%b1%e0%ae%bf%e0%ae%a9%e0%af%81%e0%ae%b3%e0%af%8d-%e0%ae%93%e0%ae%b0%e0%af%8d-%e0%ae%89%e0%ae%b3-2/?tmstv=1714603786",
+      "category": "கவிதை"
+    },
+    {
       "title": "வாழ்க்கையில்(ன்) வினாக்கள்  விடைகள் !",
       "bookid": "6b15f074-a687-4531-b39c-0976f8e38957",
       "author": "சிவகுமாரி ஆவுடையப்பன்",
