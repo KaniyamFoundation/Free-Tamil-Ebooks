@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சம் தியரீஸ்‌ இன் மூவிஸ்‌",
+      "bookid": "5e70ac49-8c4b-4903-b674-961f449d18b0",
+      "author": "லூத்விக்‌ ஆலன்‌",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/LotsofCinema.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%af%80%e0%ae%b8%e0%af%8d-%e0%ae%87%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%af%82%e0%ae%b5%e0%ae%bf%e0%ae%b8%e0%af%8d-epub/?tmstv=1714621437",
+      "category": "சினிமா"
+    },
+    {
       "title": "தனிமையின் காதலி",
       "bookid": "a355f0fa-e595-41c4-a15a-847755c0c175",
       "author": "கி. பிரேமா மோனி",
