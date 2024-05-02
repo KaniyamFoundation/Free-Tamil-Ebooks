@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "தனிமையின் காதலி",
+      "bookid": "a355f0fa-e595-41c4-a15a-847755c0c175",
+      "author": "கி. பிரேமா மோனி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-11.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%a9%e0%ae%bf%e0%ae%ae%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%be%e0%ae%a4%e0%ae%b2%e0%ae%bf-epub-2/?tmstv=1714615451",
+      "category": "கவிதை"
+    },
+    {
       "title": "எழுத்துநடையின் செந்தரம்",
       "bookid": "6f909b0e-aa87-40c3-acee-1ba871cd5942",
       "author": "செயபாண்டியன் கோட்டாளம்",
