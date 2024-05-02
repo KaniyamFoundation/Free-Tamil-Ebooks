@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "முதலிரவில் மயக்கம்",
+      "bookid": "90250caa-89d3-423b-88d4-147b24cf91d8",
+      "author": "நிர்மலா ராகவன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-5.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%af%81%e0%ae%a4%e0%ae%b2%e0%ae%bf%e0%ae%b0%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%af%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/?tmstv=1714607981",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "எளிய தமிழில் 3D Printing",
       "bookid": "71e88c3c-7fb1-44a1-9193-30093ee1d181",
       "author": "இரா. அசோகன்",
