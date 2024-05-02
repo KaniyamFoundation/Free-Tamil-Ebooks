@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "வகுப்பறையில் ஒளிரும் ஆசிரியர்கள்",
+      "bookid": "81f6f773-daf1-4aa2-b569-8ad66e754898",
+      "author": "முனைவர் மணி கணேசன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-8.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%95%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%b1%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%92%e0%ae%b3%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%86%e0%ae%9a%e0%ae%bf/?tmstv=1714609669",
+      "category": "கட்டுரை"
+    },
+    {
       "title": "பிரளயத்திற்கு ஒரு நாள் முந்தி",
       "bookid": "a1089fde-c678-49ee-9489-a13b0a7c0aed",
       "author": "அன்பழகன்ஜி",
