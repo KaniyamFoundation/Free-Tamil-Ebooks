@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பிரளயத்திற்கு ஒரு நாள் முந்தி",
+      "bookid": "a1089fde-c678-49ee-9489-a13b0a7c0aed",
+      "author": "அன்பழகன்ஜி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-7.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%bf%e0%ae%b0%e0%ae%b3%e0%ae%af%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b1%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%92%e0%ae%b0%e0%af%81-%e0%ae%a8%e0%ae%be%e0%ae%b3%e0%af%8d-%e0%ae%ae/?tmstv=1714609110",
+      "category": "கவிதை"
+    },
+    {
       "title": "திருகோணமலைத் தமிழ் கல்வெட்டுகள் 30",
       "bookid": "71c8bf0f-2d72-45dc-b4aa-bed3c37b691a",
       "author": "தம்பலகாமம். த. ஜீவராஜ்",
