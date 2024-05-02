@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "திருகோணமலைத் தமிழ் கல்வெட்டுகள் 30",
+      "bookid": "71c8bf0f-2d72-45dc-b4aa-bed3c37b691a",
+      "author": "தம்பலகாமம். த. ஜீவராஜ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-6.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%95%e0%af%8b%e0%ae%a3%e0%ae%ae%e0%ae%b2%e0%af%88%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d-%e0%ae%95%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%af%86/?tmstv=1714608551",
+      "category": "வரலாறு"
+    },
+    {
       "title": "முதலிரவில் மயக்கம்",
       "bookid": "90250caa-89d3-423b-88d4-147b24cf91d8",
       "author": "நிர்மலா ராகவன்",
