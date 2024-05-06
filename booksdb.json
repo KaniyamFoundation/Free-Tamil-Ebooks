@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "செம்பு மரங்களின் மர்மம்",
+      "bookid": "7bf9bb39-5c22-48e1-bd69-9c11186c933c",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-17.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%af%86%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%81-%e0%ae%ae%e0%ae%b0%e0%ae%99%e0%af%8d%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%ae%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%ae%e0%af%8d-epub-2/?tmstv=1714990990",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "அருந்ததியர்கள் ஆதித்தமிழர்களே",
       "bookid": "5314f3d7-129b-437e-8602-c661ebaca1cd",
       "author": "கருவூர் இரா.பழனிச்சாமி",
