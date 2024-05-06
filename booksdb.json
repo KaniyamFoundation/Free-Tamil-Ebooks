@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "கலைச்சொற்களின் செந்தரம்",
+      "bookid": "b08d078a-15ec-4899-a594-b49568ec3b3f",
+      "author": "செயபாண்டியன் கோட்டாளம்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-18.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%af%88%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%af%8a%e0%ae%b1%e0%af%8d%e0%ae%95%e0%ae%b3%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%b0%e0%ae%ae%e0%af%8d/?tmstv=1714991857",
+      "category": "கட்டுரை"
+    },
+    {
       "title": "செம்பு மரங்களின் மர்மம்",
       "bookid": "7bf9bb39-5c22-48e1-bd69-9c11186c933c",
       "author": "சு.சோமு",
