@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பிரான்செஸ் தொலைந்த மர்மம்",
+      "bookid": "094c81d6-25c8-4f07-a888-e71aa8d72a3b",
+      "author": "சு.சோமு",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-15.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%a9%e0%af%8d%e0%ae%9a%e0%af%86%e0%ae%b8%e0%af%8d-%e0%ae%a4%e0%af%8a%e0%ae%b2%e0%af%88%e0%ae%a8%e0%af%8d%e0%ae%a4-%e0%ae%ae%e0%ae%b0%e0%af%8d%e0%ae%ae%e0%ae%ae/?tmstv=1714966679",
+      "category": "சிறுகதை"
+    },
+    {
       "title": "தமிழக இஸ்லாமிய வரலாற்று ஆவணங்கள்",
       "bookid": "9872a9b6-b92e-4fe3-89f8-904f4ae39ef3",
       "author": "செ.இராசு எம்‌.ஏ., பிஎச்‌.டி.",
