@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அருந்ததியர்கள் ஆதித்தமிழர்களே",
+      "bookid": "5314f3d7-129b-437e-8602-c661ebaca1cd",
+      "author": "கருவூர் இரா.பழனிச்சாமி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-16.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b0%e0%af%81%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%a4%e0%ae%bf%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-%e0%ae%86%e0%ae%a4%e0%ae%bf%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%ae-5/?tmstv=1714990130",
+      "category": "வரலாறு"
+    },
+    {
       "title": "பிரான்செஸ் தொலைந்த மர்மம்",
       "bookid": "094c81d6-25c8-4f07-a888-e71aa8d72a3b",
       "author": "சு.சோமு",
