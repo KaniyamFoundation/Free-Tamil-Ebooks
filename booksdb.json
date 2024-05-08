@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "நேர்வழியின் சீரிய ஒளி",
+      "bookid": "c9476971-f909-4299-ba14-997702733d76",
+      "author": "ஜேம்ஸ் ஆலன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-19.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a8%e0%af%87%e0%ae%b0%e0%af%8d%e0%ae%b5%e0%ae%b4%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%80%e0%ae%b0%e0%ae%bf%e0%ae%af-%e0%ae%92%e0%ae%b3%e0%ae%bf-epub/?tmstv=1715138515",
+      "category": "கட்டுரை"
+    },
+    {
       "title": "கலைச்சொற்களின் செந்தரம்",
       "bookid": "b08d078a-15ec-4899-a594-b49568ec3b3f",
       "author": "செயபாண்டியன் கோட்டாளம்",
