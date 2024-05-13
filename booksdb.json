@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பொன்னியின் செல்வனில் சொற்பொருள் மாற்றம் - ஆய்வு",
+      "bookid": "3e843784-33d4-4178-b049-86c372ece00a",
+      "author": "கு. திவ்யா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-21.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%8a%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%af%86%e0%ae%b2%e0%af%8d%e0%ae%b5%e0%ae%a9%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%9a%e0%af%8a%e0%ae%b1/?tmstv=1715606966",
+      "category": "ஆய்வு"
+    },
+    {
       "title": "புதுமை உயிரிகள்",
       "bookid": "47cba929-f0f5-461c-b20b-16707813f9e5",
       "author": "ஏற்காடு இளங்கோ",
