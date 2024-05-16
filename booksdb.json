@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "﻿மரச் சிற்பம்",
+      "bookid": "1ac6ce1a-1b10-4fd0-b394-db5d12585d07",
+      "author": "ஷோபாசக்தி",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-24.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%ae%b0%e0%ae%9a%e0%af%8d-%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%8d%e0%ae%aa%e0%ae%ae%e0%af%8d-epub/?tmstv=1715828322",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "அவனும்‌ நானும்",
       "bookid": "56e3397b-3ed9-4613-b715-2b24b0c4c951",
       "author": "சுமிதா கபிலன்‌",
