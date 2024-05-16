@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அவனும்‌ நானும்",
+      "bookid": "56e3397b-3ed9-4613-b715-2b24b0c4c951",
+      "author": "சுமிதா கபிலன்‌",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-23.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b5%e0%ae%a9%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a8%e0%ae%be%e0%ae%a9%e0%af%81%e0%ae%ae%e0%af%8d-epub-2/?tmstv=1715827151",
+      "category": "கவிதை"
+    },
+    {
       "title": "நெஞ்சை அள்ளும் தஞ்சை",
       "bookid": "5c66e6dd-967b-4c61-9911-d5d48427da63",
       "author": "செ.இராசு எம்‌.ஏ.,",
