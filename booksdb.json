@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் Car Electronics",
+      "bookid": "809e4721-6b95-44d5-a257-79152034d7b6",
+      "author": "இரா. அசோகன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/05/cover-26.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-car-electronics-epub/?tmstv=1717034865",
+      "category": "நுட்பம்"
+    },
+    {
       "title": "﻿தெய்வயானை",
       "bookid": "924d2377-cfa1-42fd-b8bd-56f788aa89e3",
       "author": "கல்கி",
