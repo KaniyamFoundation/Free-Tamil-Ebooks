@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சாதி எனும் பிசாசு",
+      "bookid": "a0b21901-fa9c-436c-8d56-f58be38d6edc",
+      "author": "ஆர். பட்டாபிராமன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/06/cover-4.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%be%e0%ae%a4%e0%ae%bf-%e0%ae%8e%e0%ae%a9%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%aa%e0%ae%bf%e0%ae%9a%e0%ae%be%e0%ae%9a%e0%af%81-epub/?tmstv=1719157790",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "பேரறிஞர் அண்ணாவின் கடிதங்கள் - 6",
       "bookid": "c747cc8b-ea8a-4fb7-87d6-329189200b79",
       "author": "அண்ணாதுரை",
