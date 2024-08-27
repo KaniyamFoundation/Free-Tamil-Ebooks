@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஒலிம்பிக் விளையாட்டுத் திருவிழா - 2024",
+      "bookid": "3e6c8fd6-282c-47e5-9ea1-8ba3b949e981",
+      "author": "தீக்கதிர்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/08/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%92%e0%ae%b2%e0%ae%bf%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%95%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%b3%e0%af%88%e0%ae%af%e0%ae%be%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%81%e0%ae%a4%e0%af%8d-%e0%ae%a4/?tmstv=1724735476",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "சாதி எனும் பிசாசு",
       "bookid": "a0b21901-fa9c-436c-8d56-f58be38d6edc",
       "author": "ஆர். பட்டாபிராமன்",
