@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எளிய தமிழில் Car Electronics",
+      "bookid": "63fda5d6-b9ee-4e2e-9a04-e0924278418f",
+      "author": "இரா. அசோகன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/08/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-car-electronics-epub-2/?tmstv=1724771008",
+      "category": "நுட்பம்"
+    },
+    {
       "title": "ஒலிம்பிக் விளையாட்டுத் திருவிழா - 2024",
       "bookid": "3e6c8fd6-282c-47e5-9ea1-8ba3b949e981",
       "author": "தீக்கதிர்",
