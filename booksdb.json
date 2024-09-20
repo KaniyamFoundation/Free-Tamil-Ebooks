@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அருள் நெறி முழக்கம்",
+      "bookid": "2d9dd2a1-04e1-4442-90df-56a99f030ee3",
+      "author": "தவத்திரு குன்றக்குடி அடிகளார்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/09/arul_neri_muzhakkam.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%b0%e0%af%81%e0%ae%b3%e0%af%8d-%e0%ae%a8%e0%af%86%e0%ae%b1%e0%ae%bf-%e0%ae%ae%e0%af%81%e0%ae%b4%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%ae%e0%af%8d-epub/?tmstv=1726808181",
+      "category": "சொற்பொழிவுகள்"
+    },
+    {
       "title": "தி.மு.க. ஆட்சியில் மாநில சுயாட்சித் தீர்மானம் 1974",
       "bookid": "a743201a-214c-41e3-8d4d-88c28b1a7301",
       "author": "கலைஞர் மு. கருணாநிதி",
