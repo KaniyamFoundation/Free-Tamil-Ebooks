@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "அகழ்",
+      "bookid": "2aa566c7-d946-4c8a-91c1-421024918109",
+      "author": "அகழ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/10/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%95%e0%ae%b4%e0%af%8d-epub/?tmstv=1728181638",
+      "category": "இதழ்"
+    },
+    {
       "title": "அருள் நெறி முழக்கம்",
       "bookid": "2d9dd2a1-04e1-4442-90df-56a99f030ee3",
       "author": "தவத்திரு குன்றக்குடி அடிகளார்",
