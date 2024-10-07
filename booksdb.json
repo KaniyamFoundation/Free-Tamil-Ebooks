@@ -2,6 +2,14 @@
   "books": [
     {
       "title": "அகழ்",
+      "bookid": "6c7bde09-8909-4800-a2af-84e57cd36ea3",
+      "author": "அகழ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2024/10/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%85%e0%ae%95%e0%ae%b4%e0%af%8d-epub-2/?tmstv=1728273178",
+      "category": "இதழ்"
+    },
+    {
+      "title": "அகழ்",
       "bookid": "2aa566c7-d946-4c8a-91c1-421024918109",
       "author": "அகழ்",
       "image": "https://freetamilebooks.com/wp-content/uploads/2024/10/cover.jpg",
