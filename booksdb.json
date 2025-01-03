@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஹிந்த்  ஸ்வராஜ் - இந்திய சுயராஜ்யம் - தோற்றுவாயும் உள்ளடக்கக் கூறுகளும்",
+      "bookid": "1a563162-4cb0-4194-b439-adc13c9098b5",
+      "author": "ஆர்.பட்டாபிராமன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/01/cover.avif",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b9%e0%ae%bf%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%af%8d-%e0%ae%b8%e0%af%8d%e0%ae%b5%e0%ae%b0%e0%ae%be%e0%ae%9c%e0%af%8d-%e0%ae%87%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%af-%e0%ae%9a%e0%af%81/?tmstv=1735867259",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "எளிய தமிழில் DevOps",
       "bookid": "5b37053e-a453-4aef-88a8-1ebf221b929e",
       "author": "து.நித்யா",
