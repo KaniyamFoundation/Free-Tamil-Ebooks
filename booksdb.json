@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "எங்கு போகிறார்கள்?",
+      "bookid": "27fa570d-f970-4191-b7ff-64d71ec9fb61",
+      "author": "செயபாண்டியன் கோட்டாளம்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/01/cover-3-scaled.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%99%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%aa%e0%af%8b%e0%ae%95%e0%ae%bf%e0%ae%b1%e0%ae%be%e0%ae%b0%e0%af%8d%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1736561972",
+      "category": "கட்டுரைகள்"
+    },
+    {
       "title": "பரிமள கேசவன்",
       "bookid": "69c72a37-7259-489f-8259-803717be3da4",
       "author": "வை. மு. கோதைநாயகி அம்மாள்",
