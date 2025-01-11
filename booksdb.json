@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பரிமள கேசவன்",
+      "bookid": "69c72a37-7259-489f-8259-803717be3da4",
+      "author": "வை. மு. கோதைநாயகி அம்மாள்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/01/cover-2.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%ae%b0%e0%ae%bf%e0%ae%ae%e0%ae%b3-%e0%ae%95%e0%af%87%e0%ae%9a%e0%ae%b5%e0%ae%a9%e0%af%8d-epub/?tmstv=1736559973",
+      "category": "நாவல்"
+    },
+    {
       "title": "கொங்கேழ் திருத்தலங்கள் பக்தியுலா",
       "bookid": "da70ffd0-7151-4c48-81c2-6df38d085d21",
       "author": "கைலாஷி",
