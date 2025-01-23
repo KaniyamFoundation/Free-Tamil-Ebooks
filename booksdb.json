@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "வாழ்வை நோக்கி",
+      "bookid": "8ecdc57f-de99-4979-b292-28495b4d23bc",
+      "author": "விஜயா லட்சுமணன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/01/VaazhvaiNokki_cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%b5%e0%af%88-%e0%ae%a8%e0%af%8b%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%bf-epub/?tmstv=1737657454",
+      "category": "நாவல்"
+    },
+    {
       "title": "எங்கு போகிறார்கள்?",
       "bookid": "27fa570d-f970-4191-b7ff-64d71ec9fb61",
       "author": "செயபாண்டியன் கோட்டாளம்",
