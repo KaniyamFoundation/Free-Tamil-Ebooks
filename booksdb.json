@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "விடியலுக்கு இல்லை தூரம்",
+      "bookid": "84ba6d48-2844-4c15-b499-c25d14d8a7ef",
+      "author": "ஆனந்த் ஸ்ரீனிவாசன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/01/cover-4.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%b2%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%87%e0%ae%b2%e0%af%8d%e0%ae%b2%e0%af%88-%e0%ae%a4%e0%af%82%e0%ae%b0%e0%ae%ae%e0%af%8d-epub/?tmstv=1737686179",
+      "category": "தமிழ் சிறுகதைகள்"
+    },
+    {
       "title": "வாழ்வை நோக்கி",
       "bookid": "8ecdc57f-de99-4979-b292-28495b4d23bc",
       "author": "விஜயா லட்சுமணன்",
