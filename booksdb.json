@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "சின்னஞ்சிறு கதைகள்",
+      "bookid": "337ea9c5-68d1-4a4f-98b3-f7d6d79fdb5c",
+      "author": "தொகுப்பு - திருமயம் பெ.பாண்டியன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/02/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%9a%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%9e%e0%af%8d%e0%ae%9a%e0%ae%bf%e0%ae%b1%e0%af%81-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3%e0%af%8d-epub/?tmstv=1739067821",
+      "category": "குறும்பதிவு"
+    },
+    {
       "title": "நடுகல் சிறுகதைகள் - 1",
       "bookid": "8c6ddc35-5dda-433b-8f5a-98769033f29e",
       "author": "nadukal.in",
