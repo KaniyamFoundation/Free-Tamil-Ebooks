@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "ஈன்றெடுத்த ஈசன்",
+      "bookid": "abe6a0c9-603b-49a9-8586-99bdf43312f1",
+      "author": "காவேரி நாதன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/02/cover-1.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%88%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%86%e0%ae%9f%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4-%e0%ae%88%e0%ae%9a%e0%ae%a9%e0%af%8d-epub/?tmstv=1739765266",
+      "category": "ஆன்மிகம்"
+    },
+    {
       "title": "சின்னஞ்சிறு கதைகள்",
       "bookid": "337ea9c5-68d1-4a4f-98b3-f7d6d79fdb5c",
       "author": "தொகுப்பு - திருமயம் பெ.பாண்டியன்",
