@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "திருப்பாவையில் தேடிய முத்து",
+      "bookid": "2432ca02-2d89-4d8a-b989-c6aec9a58d5d",
+      "author": "ஷக்தி பிரபா",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/04/cover.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%af%81%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%b5%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf%e0%ae%af-%e0%ae%ae%e0%af%81%e0%ae%a4/?tmstv=1745969149",
+      "category": "ஆன்மிகம்"
+    },
+    {
       "title": "வானம் தொட்டு விடும் தூரம்தான்",
       "bookid": "36f73670-9b4b-46e5-8a80-1580bdf7a17d",
       "author": "ஆனந்த் ஸ்ரீனிவாசன்",
