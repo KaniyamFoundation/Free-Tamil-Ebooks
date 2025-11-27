@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "பெண்ணியத்தில் என் கதைகள்",
+      "bookid": "f53ddff2-dba9-49d1-b80d-30c0d0227c8b",
+      "author": "நிர்மலா ராகவன்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2025/11/feminism.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%aa%e0%af%86%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%bf%e0%ae%af%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%8e%e0%ae%a9%e0%af%8d-%e0%ae%95%e0%ae%a4%e0%af%88%e0%ae%95%e0%ae%b3-2/?tmstv=1764258807",
+      "category": "சிறுகதைகள்"
+    },
+    {
       "title": "திருப்பாவையில் தேடிய முத்து",
       "bookid": "2432ca02-2d89-4d8a-b989-c6aec9a58d5d",
       "author": "ஷக்தி பிரபா",
