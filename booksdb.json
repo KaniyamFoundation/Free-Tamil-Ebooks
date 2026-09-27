@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "தரவுகளின் அமைப்பு & கணிப்பு நெறி",
+      "bookid": "bbc61b4d-c9fa-43d1-922f-b95c09991309",
+      "author": "சிவமுருகன் பெருமாள்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2026/09/cover.png",
+      "epub": "[download id=\"21113\"]",
+      "category": "கணினி அறிவியல்"
+    },
+    {
       "title": "பெண்ணியத்தில் என் கதைகள்",
       "bookid": "f53ddff2-dba9-49d1-b80d-30c0d0227c8b",
       "author": "நிர்மலா ராகவன்",
