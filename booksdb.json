@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "title": "மீளா நினைவுகள்",
+      "bookid": "b0975cae-4132-451f-a3bb-a2f6fbd872ab",
+      "author": "து. தர்மராஜ்",
+      "image": "https://freetamilebooks.com/wp-content/uploads/2026/10/cover_web.jpg",
+      "epub": "https://freetamilebooks.com/download/%e0%ae%ae%e0%af%80%e0%ae%b3%e0%ae%be-%e0%ae%a8%e0%ae%bf%e0%ae%a9%e0%af%88%e0%ae%b5%e0%af%81%e0%ae%95%e0%ae%b3%e0%af%8d-epub-2/?tmstv=1793034323",
+      "category": "கவிதைகள்"
+    },
+    {
       "title": "தரவுகளின் அமைப்பு & கணிப்பு நெறி",
       "bookid": "bbc61b4d-c9fa-43d1-922f-b95c09991309",
       "author": "சிவமுருகன் பெருமாள்",
